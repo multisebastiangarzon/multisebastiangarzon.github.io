@@ -3,12 +3,11 @@ import imgNote from "../assets/img-projects/note-app.png";
 
 export const proyectos = [
   {
-    titulo: "E-commerce Urban Style",
+    titulo: "Diseño de contenidos",
     descripcion: "Descripción breve del proyecto 1.",
     imagen: urbanStyle.src,
     tecnologias: ["React", "Tailwind", "Firebase"],
     demo: "https://proyecto-final-rodriguez-sable.vercel.app/",
-    codigo: "https://github.com/Lautaro-R-collins/ProyectoFinal-Rodriguez.git",
   },
   {
     titulo: "Tienda Artesana",
