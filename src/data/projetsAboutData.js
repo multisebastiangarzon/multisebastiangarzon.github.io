@@ -1,5 +1,8 @@
-import imgNote from "../assets/img-projects/note-app.png";
+import jm from "../assets/img-projects/J&M.png";
 import infinity from "../assets/img-projects/Infinity.png";
+import PaginaKasa from "../assets/img-projects/PaginaKasa.png";
+import Kasa from "../assets/img-projects/Kasa.png";
+
 
 export const proyectos = [
   {
@@ -11,20 +14,19 @@ export const proyectos = [
   },
   {
     titulo: "Diseño Web",
-    imagen:
-      "https://i.pinimg.com/736x/c9/70/bf/c970bfbc24489e39418b2c1b1f8f74ef.jpg",
+    imagen: PaginaKasa,
     tecnologias: ["Elementor"],
     demo: "https://lakasacrea.com/lakasaxlaventana",
   },
   {
     titulo: "Diseño Web",
-    imagen: imgNote.src,
+    imagen: jm,
     tecnologias: ["Wordpress"],
     demo: "https://jmcreciendocontigo.com",
   },
   {
     titulo: "Diseño de contenidos",
-    imagen: "https://miro.medium.com/1*47S4iWVwTicFkFL4-Z4uAA.png",
+    imagen: Kasa,
     tecnologias: ["Estrategia"],
     demo: "https://www.instagram.com/lakasaxlaventana",
   },
