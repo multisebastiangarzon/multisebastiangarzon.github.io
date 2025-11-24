@@ -1,11 +1,11 @@
-import urbanStyle from "../assets/img-projects/urbanStyle.png";
 import imgNote from "../assets/img-projects/note-app.png";
+import infinity from "../assets/img-projects/infinity.png";
 
 export const proyectos = [
   {
     titulo: "Diseño de contenidos",
     descripcion: "Descripción breve del proyecto 1.",
-    imagen: "https://www.instagram.com/p/DRTCpI4jEin/",
+    imagen: infinity.src,
     tecnologias: ["Reels", "Post", "Carrusel"],
     demo: "https://www.instagram.com/infinityfarmscol",
   },
