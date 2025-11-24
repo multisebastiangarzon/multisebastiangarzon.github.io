@@ -37,7 +37,7 @@ export const proyectos = [
     imagen: PaginaKasa.src,
     tecnologias: ["Wompi", "Elementor", "Festival", "Marca"],
     demo: "https://lakasacrea.com/lakasaxlaventana",
-    categoria: "Desarrollo de contenidos",
+    categoria: "Desarrollo Web",
   },
   {
     titulo: "Página Web J&M Creciendo Contigo",
@@ -46,7 +46,7 @@ export const proyectos = [
     imagen: jm.src,
     tecnologias: ["Elementor", "Whatsapp API"],
     demo: "https://jmcreciendocontigo.com",
-    categoria: "Desarrollo de contenidos",
+    categoria: "Desarrollo Web",
   },
   {
     titulo: "Contenidos Kassa",
@@ -64,7 +64,7 @@ export const proyectos = [
     imagen: PaginaKassa.src,
     tecnologias: ["Elementor", "Landing", "Wordpress"],
     demo: "https://kassaapartamentos.com",
-    categoria: "Desarrollo de contenidos",
+    categoria: "Desarrollo Web",
   },
   {
     titulo: "Contenidos La Casa Del Rock",
