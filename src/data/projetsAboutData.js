@@ -14,19 +14,19 @@ export const proyectos = [
   },
   {
     titulo: "Diseño Web",
-    imagen: PaginaKasa,
+    imagen: PaginaKasa.src,
     tecnologias: ["Elementor"],
     demo: "https://lakasacrea.com/lakasaxlaventana",
   },
   {
     titulo: "Diseño Web",
-    imagen: jm,
+    imagen: jm.src,
     tecnologias: ["Wordpress"],
     demo: "https://jmcreciendocontigo.com",
   },
   {
     titulo: "Diseño de contenidos",
-    imagen: Kasa,
+    imagen: Kasa.src,
     tecnologias: ["Estrategia"],
     demo: "https://www.instagram.com/lakasaxlaventana",
   },
