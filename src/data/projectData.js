@@ -4,7 +4,6 @@ import legalWeb from "../assets/img-projects/legalweb.webp";
 import mediCare from "../assets/img-projects/medicare.jpg";
 import astroFit from "../assets/img-projects/Astrofit.jpg";
 import Verbenas from "../assets/img-projects/challenge-newyze.png";
-import { GiBottleVapors } from "react-icons/gi";
 
 export const proyectos = [
   {
@@ -92,7 +91,7 @@ export const proyectos = [
     categoria: "Producción Audiovisual",
   },
   {
-    titulo: Landing HalconBot",
+    titulo: "Landing HalconBot",
     descripcion:
       "App Web para organizar tus proyectos, hecha con React + Vite, TypeScript y Tailwind para los estilos.",
     imagen:
