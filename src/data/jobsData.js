@@ -3,7 +3,7 @@ export const jobs = [
     title: "Desarrollo de contenidos - Infinity Farms",
     time: ["2025"],
     description:
-      "Se desarrolla mes a mes diferentes publicaciones (Post, Reels, Carruseles) para la empresa "Infinity Farms", una exportadora de flores.",
+      "Se desarrolla mes a mes diferentes publicaciones (Post, Reels, Carruseles) para la empresa Infinity Farms, una exportadora de flores.",
     list: [
       "Parte del trabajo desarrollado en werock.space",
       "Se realiza la recopilación de un material y a partir de este se generan diferentes contenidos durante el mes.",
