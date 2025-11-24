@@ -38,19 +38,19 @@ const SkillsList = () => {
 
   const skills = {
     "¿Qué tecnologías uso?": [
-      "Actualmente trabajo con tecnologías como React, Next.js, Vue.js, Astro, tailwind, Boostrap y demas librerias y frameworks para el frontend y en el backend trabajo con Node.js, Express, MongoDB, Firebase, entre otras.",
+      "En mi trabajo utilizo un conjunto de herramientas que me permiten desarrollar proyectos visuales, musicales y digitales con fluidez y precisión. Me especializo en Adobe Premiere Pro para edición audiovisual, Elementor para WordPress en la creación de sitios web dinámicos y funcionales, y Adobe Illustrator para diseño gráfico y construcción de identidades visuales. Además, integro Ableton Live en la producción y edición de audio, y manejo Maya 3D para modelado y animación, lo que me permite combinar recursos visuales y sonoros en piezas completas e interdisciplinarias.",
     ],
     "Mi Experiencia": [
-      "Tengo experiencia trabajando en startups y consultoras tecnológicas, desarrollando y maquetando sitios web a partir de diseños en Figma. Para ello, utilizo tecnologías frontend como Astro y React, junto con Tailwind CSS y otras librerías y frameworks para el estilizado y la optimización de interfaces.",
+      "Tengo experiencia en el desarrollo y maquetación de sitios web a partir de diseños creados en Figma. Durante este proceso, utilizo Elementor para WordPress como herramienta principal, lo que me permite transformar las propuestas visuales en páginas funcionales, responsivas y bien estructuradas. Mi enfoque se centra en mantener fidelidad al diseño original, optimizar la experiencia del usuario y asegurar una implementación clara y eficiente.",
     ],
     "Mi formacion": [
-      "Estudié una tecnicatura en automatización de grado universitaria en el ITU, lo que me brindó las bases en programación. Posteriormente, decidí enfocarme en el desarrollo web y de software estudiando en el ITU. Ademas, realicé diversos cursos, diplomados y capacitaciones en grandes universidades Argentinas, como la UTN y el Instituto Tecnológico Universitario, tambien, complemento mi formación con el aprendizaje autodidacta, lo que me permite mantenerme actualizado con los avances tecnológicos en el desarrollo de software.",
+      "Estudié un técnico en sistemas, lo que me brindó una base sólida en tecnología y manejo de software. Posteriormente, decidí orientar mi camino hacia el ámbito creativo y cursé ingeniería multimedia en la Universidad Militar Nueva Granada, profundizando en áreas como producción audiovisual, diseño digital y desarrollo interactivo. Además, he complementado mi formación con diversos cursos y diplomados, sumados a un aprendizaje autodidacta constante, que me permite mantenerme actualizado frente a las nuevas herramientas y avances tecnológicos del sector.",
     ],
     "¿Cómo trabajo en equipo?": [
-      "Tengo experiencia trabajando en equipos multidisciplinarios, donde me he encargado del desarrollo frontend de aplicaciones web. Para ello, utilizo metodologías ágiles como Scrum y Kanban, además de herramientas de control de versiones como Git y GitHub para gestionar el flujo de trabajo. También cuento con experiencia en el uso de herramientas de gestión de proyectos como Trello y Jira, facilitando la organización y colaboración dentro del equipo.",
+      "Tengo experiencia trabajando en equipos multidisciplinarios, participando en procesos colaborativos donde la comunicación y la coordinación son fundamentales. Para ello, aplico metodologías ágiles como Scrum, que permiten organizar el trabajo de manera eficiente y mantener un avance continuo del proyecto. Asimismo, manejo herramientas de gestión de proyectos como Trello y Asana, las cuales facilitan la planificación, seguimiento de tareas y colaboración entre los miembros del equipo.",
     ],
     "Metodolgias Agiles": [
-      "He trabajado con metodologías ágiles como Scrum y Kanban. En Scrum, participé en sprints de dos semanas, donde al finalizar cada sprint realizaba un pull request (PR) con mi trabajo, el cual pasaba por una fase de revisión y corrección antes de ser fusionado y enviado a producción. También he trabajado con Kanban, utilizando tableros para gestionar tareas y moverlas según su estado de progreso. Además, participé en reuniones diarias (dailies) para planificar y reportar avances del proyecto, asegurando una comunicación eficiente dentro del equipo.",
+      "He trabajado con metodologías ágiles, especialmente Scrum, lo que me ha permitido participar en procesos organizados, iterativos y centrados en la mejora continua. Gracias a este enfoque, puedo adaptarme con facilidad a los cambios, coordinarme mejor con el equipo y asegurar una ejecución más eficiente de los proyectos.",
     ],
   };
 
