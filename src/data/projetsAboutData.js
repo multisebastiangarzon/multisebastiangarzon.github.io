@@ -1,5 +1,5 @@
 import imgNote from "../assets/img-projects/note-app.png";
-import infinity from "../assets/img-projects/infinity.png";
+import infinity from "../assets/img-projects/Infinity.png";
 
 export const proyectos = [
   {
