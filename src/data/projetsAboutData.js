@@ -5,7 +5,7 @@ export const proyectos = [
   {
     titulo: "Diseño de contenidos",
     descripcion: "Descripción breve del proyecto 1.",
-    imagen: Infinity.png,
+    imagen: src/assets/img-projects/Infinity.png,
     tecnologias: ["Reels", "Post", "Carrusel"],
     demo: "https://www.instagram.com/infinityfarmscol",
   },
