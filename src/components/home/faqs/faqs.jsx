@@ -38,19 +38,19 @@ const SkillsList = () => {
 
   const skills = {
     "¿Qué tecnologías uso?": [
-      "Actualmente trabajo con Adobe Premiere Pro, Elementor for Wordpress, Adobe Illustrator, Ableton Live y Maya 3D",
+      "En mi trabajo utilizo un conjunto de herramientas que me permiten desarrollar proyectos visuales, musicales y digitales con fluidez y precisión. Me especializo en Adobe Premiere Pro para edición audiovisual, Elementor para WordPress en la creación de sitios web dinámicos y funcionales, y Adobe Illustrator para diseño gráfico y construcción de identidades visuales. Además, integro Ableton Live en la producción y edición de audio, y manejo Maya 3D para modelado y animación, lo que me permite combinar recursos visuales y sonoros en piezas completas e interdisciplinarias.",
     ],
     "Mi Experiencia": [
-      "Tengo experiencia desarrollando y maquetando sitios web a partir de diseños en Figma. Para ello, utilizo tecnologías Elementor for Wordpress",
+      "Tengo experiencia en el desarrollo y maquetación de sitios web a partir de diseños creados en Figma. Durante este proceso, utilizo Elementor para WordPress como herramienta principal, lo que me permite transformar las propuestas visuales en páginas funcionales, responsivas y bien estructuradas. Mi enfoque se centra en mantener fidelidad al diseño original, optimizar la experiencia del usuario y asegurar una implementación clara y eficiente.",
     ],
     "Mi formacion": [
-      "Estudié un técnico en sistemas. Posteriormente, decidí enfocarme en el desarrollo audiovisual con ingeniería multimedia en la Universidad Militar Nueva Granada. Ademas, realicé diversos cursos, diplomados los cuales complemento mi formación con el aprendizaje autodidacta, lo que me permite mantenerme actualizado con los avances tecnológicos.",
+      "Estudié un técnico en sistemas, lo que me brindó una base sólida en tecnología y manejo de software. Posteriormente, decidí orientar mi camino hacia el ámbito creativo y cursé ingeniería multimedia en la Universidad Militar Nueva Granada, profundizando en áreas como producción audiovisual, diseño digital y desarrollo interactivo. Además, he complementado mi formación con diversos cursos y diplomados, sumados a un aprendizaje autodidacta constante, que me permite mantenerme actualizado frente a las nuevas herramientas y avances tecnológicos del sector.",
     ],
     "¿Cómo trabajo en equipo?": [
-      "Tengo experiencia trabajando en equipos multidisciplinarios. Para ello, utilizo metodologías ágiles como Scrum. También cuento con experiencia en el uso de herramientas de gestión de proyectos como Trello y Asana, facilitando la organización y colaboración dentro del equipo.",
+      "Tengo experiencia trabajando en equipos multidisciplinarios, participando en procesos colaborativos donde la comunicación y la coordinación son fundamentales. Para ello, aplico metodologías ágiles como Scrum, que permiten organizar el trabajo de manera eficiente y mantener un avance continuo del proyecto. Asimismo, manejo herramientas de gestión de proyectos como Trello y Asana, las cuales facilitan la planificación, seguimiento de tareas y colaboración entre los miembros del equipo.",
     ],
     "Metodolgias Agiles": [
-      "He trabajado con metodologías ágiles como Scrum.",
+      "He trabajado con metodologías ágiles, especialmente Scrum, lo que me ha permitido participar en procesos organizados, iterativos y centrados en la mejora continua. Gracias a este enfoque, puedo adaptarme con facilidad a los cambios, coordinarme mejor con el equipo y asegurar una ejecución más eficiente de los proyectos.",
     ],
   };
 
