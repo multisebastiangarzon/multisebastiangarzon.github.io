@@ -7,12 +7,11 @@ export interface Props {
   imagen: string;
   tecnologias: string[];
   demo: string;
-  codigo: string;
   categoria?: string;
   index: number; 
 }
 
-const { titulo, descripcion, imagen, tecnologias, demo, codigo, categoria, index } =
+const { titulo, descripcion, imagen, tecnologias, demo, categoria, index } =
   Astro.props;
 ---
 
@@ -49,19 +48,6 @@ const { titulo, descripcion, imagen, tecnologias, demo, codigo, categoria, index
         href={demo}
       >
         Demo
-        <HiArrowRight
-          className="ml-1 transition-transform duration-200 group-hover:translate-x-1"
-          size={18}
-        />
-      </a>
-
-      <a
-        class="group text-primary mt-6 flex items-center justify-start p-0 font-bold text-lg"
-        href={codigo}
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        Código
         <HiArrowRight
           className="ml-1 transition-transform duration-200 group-hover:translate-x-1"
           size={18}
