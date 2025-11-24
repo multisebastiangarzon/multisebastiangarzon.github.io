@@ -24,29 +24,29 @@ export const proyectos = [
   {
     titulo: "Contenidos Infinity Farms",
     descripcion:
-      "Desarrllo audiovisual de contenidos para la empresa exportadora de flores.",
+      "Desarrollo audiovisual de contenidos para la empresa exportadora de flores.",
     imagen: Infinity.src,
     tecnologias: ["Illustrator", "Adobe Premiere", "Audiovisual"],
     demo: "https://www.instagram.com/infinityfarmscol",
-    categoria: "Contenidos",
+    categoria: "Desarrollo de contenidos",
   },
   {
     titulo: "Página Web La Kasa X la Ventana",
     descripcion:
-      "Desarrllo de página con información y acceso a venta de boletería.",
+      "Desarrollo de página con información y acceso a venta de boletería.",
     imagen: PaginaKasa.src,
     tecnologias: ["Wompi", "Elementor", "Festival", "Marca"],
     demo: "https://lakasacrea.com/lakasaxlaventana",
-    categoria: "Desarrollo Web",
+    categoria: "Desarrollo de contenidos",
   },
   {
     titulo: "Página Web J&M Creciendo Contigo",
     descripcion:
-      "Desarrllo de página basado en los requierimientos del cliente.",
+      "Desarrollo de página basado en los requierimientos del cliente.",
     imagen: jm.src,
     tecnologias: ["Elementor", "Whatsapp API"],
     demo: "https://jmcreciendocontigo.com",
-    categoria: "Desarrllo Web",
+    categoria: "Desarrollo de contenidos",
   },
   {
     titulo: "Contenidos Kassa",
@@ -55,25 +55,25 @@ export const proyectos = [
     imagen: Kassa.src,
     tecnologias: ["Contenido Redes", "Pautas", "Ads"],
     demo: "https://www.instagram.com/kassa_129",
-    categoria: "Contenidos",
+    categoria: "Desarrollo de contenidos",
   },
   {
     titulo: "Landing Kassa Apartamentos",
     descripcion:
-      "Desarrllo de una página de aterrizaje",
+      "Desarrollo de una página de aterrizaje",
     imagen: PaginaKassa.src,
     tecnologias: ["Elementor", "Landing", "Wordpress"],
     demo: "https://kassaapartamentos.com",
-    categoria: "Desarrollo Web",
+    categoria: "Desarrollo de contenidos",
   },
   {
     titulo: "Contenidos La Casa Del Rock",
     descripcion:
-      "Desarrllo audiovisual para la posición de marca",
+      "Desarrollo audiovisual para la posición de marca",
     imagen: CasaRock.src,
     tecnologias: ["Audiovisual",],
     demo: "https://www.instagram.com/lacasadelrockcajica",
-    categoria: "Contenidos",
+    categoria: "Desarrollo de contenidos",
   },
   {
     titulo: "Contenidos WeRock.space",
@@ -82,7 +82,7 @@ export const proyectos = [
     imagen: Werock.src,
     tecnologias: ["Redes", "Premio a mejor página web", "Marca"],
     demo: "https://www.instagram.com/werock.space",
-    categoria: "Contenidos",
+    categoria: "Desarrollo de contenidos",
   },
   {
     titulo: "VJ para artistas",
@@ -90,7 +90,7 @@ export const proyectos = [
     imagen: VJ.src,
     tecnologias: ["Touchdesigner", "VJing", "Resolume Arena"],
     demo: "https://www.instagram.com/p/DPHU4SkkUAA",
-    categoria: "Producción Audiovisual",
+    categoria: "Produccion Audiovisual",
   },
   {
     titulo: "Landing HalconBot",
@@ -108,7 +108,7 @@ export const proyectos = [
     imagen: SanMiguel.src,
     tecnologias: ["Marca", "Pautas"],
     demo: "https://www.instagram.com/proyectosanmiguelcajica",
-    categoria: "Contenidos",
+    categoria: "Desarrollo de contenidos",
   },
   {
     titulo: "Página Web Tirano Fajardo",
